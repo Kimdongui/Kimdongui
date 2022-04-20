@@ -1,18 +1,17 @@
 ## 👋 Hi there, I am Kimdongui
 
-📌 I’m currently learning 
+📌 I’m currently learning
   - CI/CD
   - Kubernates(k8s)
   - Anomaly Detection
   - Evaluation Functions
+  - Design Pattern
 ---
 
 📌 Interested
-- Smart factory
-- Optimization
-- Sequential data
-- Neural Networks
-- Machine Learning
+- **Smart factory (most intrested)**
+  - Optimization
+  - Sequential data
 - Natural Language Processing
 
 ---
