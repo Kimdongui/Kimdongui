@@ -12,8 +12,8 @@
 
 📌 Interested
 - **Smart factory (most intrested)**
-  - Optimization
-  - Sequential data
+- Timeseries data
+- Optimization
 - Natural Language Processing
 
 ---
