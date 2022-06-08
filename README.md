@@ -2,11 +2,11 @@
 ### 👋 Hi I'm Kimdongui, Donghyun Kim
 
 ### who am I?
-📌 I’m currently learning
+📌 I’m currently studying
   - CI/CD
+  - Linear Algebra
   - Kubernates(k8s)
   - Anomaly Detection
-  - Evaluation Functions
   - Design Pattern
 ---
 
