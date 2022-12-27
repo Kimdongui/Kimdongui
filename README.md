@@ -3,23 +3,25 @@
 
 ### who am I?
 📌 I’m currently studying
-  - CI/CD
+  - MLOps
   - Linear Algebra
   - Kubernates(k8s)
   - Anomaly Detection
   - Design Pattern
+  - Java
 ---
 
 📌 Interested
 - **Smart factory (most intrested)**
 - Timeseries data
 - Optimization
+- MLOps
 - Natural Language Processing
 
 ---
 
 📌 if you want to know more about me, check repos or following resume link
-- [Resume](https://sedate-virgo-f36.notion.site/Resume-e76257d561f2416e8dd8d271252bc6b5)
+- [Resume](https://sedate-virgo-f36.notion.site/Resume-f4639adb6773421394a95a14768fd32a)
 
 ![Kimdongui's github stats](https://github-readme-stats.vercel.app/api?username=Kimdongui&show_icons=true)
 
