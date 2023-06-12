@@ -4,15 +4,13 @@
 ### who am I?
 📌 I’m currently studying
   - MLOps
-  - Linear Algebra
   - Kubernates(k8s)
-  - Anomaly Detection
   - Design Pattern
   - Java
 ---
 
 📌 Interested
-- **Smart factory (most intrested)**
+- **Smart factory**
 - Timeseries data
 - Optimization
 - MLOps
