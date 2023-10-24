@@ -6,14 +6,13 @@
   - MLOps
   - Kubernates(k8s)
   - Design Pattern
-  - Java
 ---
 
 📌 Interested
-- **Smart factory**
+- **MLOps**
+- Smart factory
 - Timeseries data
 - Optimization
-- MLOps
 - Natural Language Processing
 
 ---
