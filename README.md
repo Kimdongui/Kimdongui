@@ -18,7 +18,6 @@
 ---
 
 📌 if you want to know more about me, check repos or following resume link
-- [Resume](https://sedate-virgo-f36.notion.site/Resume-f4639adb6773421394a95a14768fd32a)
 
 ![Kimdongui's github stats](https://github-readme-stats.vercel.app/api?username=Kimdongui&show_icons=true)
 
